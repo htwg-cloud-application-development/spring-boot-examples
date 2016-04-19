@@ -10,6 +10,7 @@
 
 - Java
 - Maven 3
+- running instance of Mongodb (on default port)
 
 #### Using the terminal
 
